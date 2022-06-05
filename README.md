@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A developer from Pakistan</h3>
+<h3 align="center">A developer from Pakistan currently enrolled in undergraduate program of BSCS in UET,Lahore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadabdullah660&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadabdullah660" /> </p>
 <!-- 
