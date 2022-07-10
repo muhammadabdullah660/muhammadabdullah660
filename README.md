@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
 </div>  
   
 
@@ -22,11 +22,11 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 
 
-### Frontend  
+### Technologies  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -45,14 +45,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -81,13 +73,12 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah660&hide_border=true&layout=compact" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah660&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah660&show_icons=true&count_private=true&hide_border=true" align="center" />  
+</div>
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
