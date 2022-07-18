@@ -69,17 +69,17 @@
   
 
 <br/>  
+<a href="[http://www.github.com/hicodersofficial](https://github.com/muhammadabdullah660?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=muhammadabdullah660&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah660&hide_border=true&layout=compact" align="center" /></div>  
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah660&hide=PureBasic&langs_count=18 align="center" /></div> 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah660&show_icons=true&count_private=true&hide_border=true" align="center" />  
 </div>
 <br/>  
-
-
-  
 
 <br/>  
 
