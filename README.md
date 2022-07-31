@@ -9,7 +9,7 @@
 - 🔭 I’m currently an undergraduate student at UET, Lahore  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently working in Python and Reactjs
   
 
 - ⏰ I'm constantly posting repositories and new projects  
