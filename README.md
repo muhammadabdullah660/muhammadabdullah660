@@ -3,7 +3,7 @@
 </div> --->
   
 
-### <div align="center">I'm Muhammad Abdullah, a student working in different technologies 🚀</div>  
+### <div align="center">I'm Muhammad Abdullah, an optimist student working in different technologies 🚀</div>  
   
 
 - 🔭 I’m currently an undergraduate student at UET, Lahore  
