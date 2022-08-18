@@ -46,7 +46,10 @@ An optimist who is highly interested in Computer technology, mainly focused on l
 </a>
 <a href="https://youtu.be/r1_JJtyYaK0" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-abdullah-055049200" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
