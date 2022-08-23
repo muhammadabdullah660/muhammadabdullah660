@@ -1,10 +1,10 @@
 <!---<div align="center" >
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
 </div> --->
- <div align="center"> 
-<h1 style="text-align: center">Muhammad Abdullah here!</h1></div> 
-<div align="center"><p style="text-align: center">
-<p style="text-align: center">I'm a junior year student currently enrolled in a Bachelor’s degree in Computer Sciences at the University of Engineering and Technology, Lahore. </p>
+ <div> 
+<h1>Muhammad Abdullah here!</h1></div> 
+<div>
+<p>I'm a junior year student currently enrolled in a Bachelor’s degree in Computer Sciences at the University of Engineering and Technology, Lahore. </p>
 An optimist who is highly interested in Computer technology, mainly focused on learning and working as a full-stack web developer with Reactjs, Nodejs and MongoDB. I have been learning a lot of different technologies for last 3 years which includes programming languages like C++, C# and Python and related concepts, web technologies. 🚀</div>  
   
 
