@@ -53,9 +53,10 @@ An optimist who is highly interested in Computer technology, mainly focused on l
 </div>  
   
 
-<br/>  
+<br/> 
+<!----
 <a href="[http://www.github.com/hicodersofficial](https://github.com/muhammadabdullah660?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=muhammadabdullah660&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+----->
 
 ## Github Stats  
 
