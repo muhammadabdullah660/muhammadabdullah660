@@ -4,8 +4,13 @@
  <div> 
 <h1>Muhammad Abdullah here!</h1></div> 
 <div>
-<p>I'm a junior year student currently enrolled in a Bachelor’s degree in Computer Sciences at the University of Engineering and Technology, Lahore. </p>
-An optimist who is highly interested in Computer technology, mainly focused on learning and working as a full-stack web developer with Reactjs, Nodejs and MongoDB. I have been learning a lot of different technologies for last 3 years which includes programming languages like C++, C# and Python and related concepts, web technologies. 🚀</div>  
+I am a driven and ambitious computer science student, currently pursuing a Bachelor's degree at the University of Engineering and Technology in Lahore. With a passion for computer technology and a focus on full-stack web development using Reactjs, Nodejs, and MongoDB, I have gained a solid foundation in programming languages such as C++, C#, and Python, as well as web technologies.
+<br/><br/>
+I have received recognition for my exceptional skills and dedication in the field and have been selected as a BETA Microsoft Learn Student Ambassador. In addition, I serve as the Co-Lead of the Marketing Team for the Google Developer Student Club (GDSC) at UET, Lahore, where I oversee the club's marketing efforts and work closely with my team to promote the club's events and activities. My leadership and marketing skills have helped to establish the GDSC as a prominent organization in the tech community at my university.
+<br/><br/>
+I have also received certification as a Microsoft Office Specialist, demonstrating my proficiency in using Microsoft Office applications. In addition to my academic pursuits, I have served as a teaching assistant, where I have gained valuable experience in mentoring and guiding students. I have also worked as a web developer and programmer, gaining practical experience in developing web applications and working on projects in the field.
+<br/><br/>
+With my strong technical skills, leadership abilities, and practical experience, I am well-prepared for a successful career in computer science. I am eager to continue learning and growing my skills in the field and am committed to making a positive impact in the tech industry. 🚀</div>  
   
 
 - 🔭 I’m currently an undergraduate student at UET, Lahore  
