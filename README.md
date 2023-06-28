@@ -65,13 +65,14 @@ With my strong technical skills, leadership abilities, and practical experience,
 
 ## Github Stats  
 
-<!----
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadabdullah660&hide=PureBasic&langs_count=18" align="center" /></div> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah660&show_icons=true&count_private=true&hide_border=true" align="center" /> 
-</div>
------>
-<div align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah660&" alt="muhammadabdullah660" /></div>
+
+ ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah660\&rank_icon=percentile&show=reviews&include_all_commits=true)
+
+
+<a href="https://github.com/muhammadabdullah660/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullah660&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <br/> 
 
 [![@muhammad_abdullah00's Holopin board](https://holopin.me/muhammad_abdullah00)](https://holopin.io/@muhammad_abdullah00)
