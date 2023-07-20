@@ -4,25 +4,37 @@
  <div> 
 <h1>Muhammad Abdullah here!</h1></div> 
 <div>
-I am a driven and ambitious computer science student, currently pursuing a Bachelor's degree at the University of Engineering and Technology in Lahore. With a passion for computer technology and a focus on full-stack web development using Reactjs, Nodejs, and MongoDB, I have gained a solid foundation in programming languages such as C++, C#, and Python, as well as web technologies.
-<br/><br/>
-I have received recognition for my exceptional skills and dedication in the field and have been selected as a BETA Microsoft Learn Student Ambassador. In addition, I serve as the Co-Lead of the Marketing Team for the Google Developer Student Club (GDSC) at UET, Lahore, where I oversee the club's marketing efforts and work closely with my team to promote the club's events and activities. My leadership and marketing skills have helped to establish the GDSC as a prominent organization in the tech community at my university.
-<br/><br/>
-I have also received certification as a Microsoft Office Specialist, demonstrating my proficiency in using Microsoft Office applications. In addition to my academic pursuits, I have served as a teaching assistant, where I have gained valuable experience in mentoring and guiding students. I have also worked as a web developer and programmer, gaining practical experience in developing web applications and working on projects in the field.
-<br/><br/>
-With my strong technical skills, leadership abilities, and practical experience, I am well-prepared for a successful career in computer science. I am eager to continue learning and growing my skills in the field and am committed to making a positive impact in the tech industry. 🚀</div>  
+In a world fueled by boundless curiosity and an unyielding thirst for knowledge, I, Muhammad Abdullah, emerge as a driven and ambitious computer science student. With every line of code I write and every problem I solve, I am propelled by a deep passion for computer technology.
+
+Academic Pursuits:
+🌐Pursuing a Bachelor's degree in Computer Science at the University of Engineering and Technology in 
+ Lahore.
+
+Tech Skills:
+💻 Proficient in full-stack web development, specializing in front-end development using Reactjs, HTML, 
+ CSS, and JavaScript.
+🚀 Strong command over programming languages, including C++, C#, and Python.
+🔧 Familiarity with version control systems such as Git and collaborative development using platforms 
+ like GitHub.
+📜 Certified as a Microsoft Office Specialist, demonstrating proficiency in Microsoft Office applications.
+
+Volunteering:
+🌟 Selected as a BETA Microsoft Learn Student Ambassador, showcasing exceptional skills and 
+ dedication in the field.
+🌐 Current Co-Lead of the Ultimate Tech Crew
+🚀 xCo-Lead of the Marketing Team for the Google Developer Student Club (GDSC) at UET, Lahore.
+
+Practical Experience:
+🎓 Served as a teaching assistant, gaining valuable experience in mentoring and guiding students.
+💻 Worked as a web developer and programmer, gaining practical experience in developing web 
+ applications and working on projects.
+
+Vision and Commitment:
+Driven by a passion for technology and a hunger for knowledge and growth, I am committed to making a lasting impact in the tech industry. Eager to continue learning and embracing the ever-evolving nature of computer science. 🌟💻🚀</div>  
   
 
-- 🔭 I’m currently an undergraduate student at UET, Lahore  
-  
 
-- 🌱 I’m currently working in Python and Reactjs
-  
 
-- ⏰ I'm constantly posting repositories and new projects  
-  
-
-- ⚡ Certified MOS in Word, Excel and PowerPoint  
   
 
 <br/>  
