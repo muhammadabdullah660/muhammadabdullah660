@@ -77,15 +77,22 @@ Driven by a passion for technology and a hunger for knowledge and growth, I am c
 
 ## Github Stats  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullah660&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="muhammadabdullah660" width="300" /></p>
 
- ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah660\&rank_icon=percentile&show=reviews&include_all_commits=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadabdullah660&theme=nightowl&show_icons=true&locale=en" alt=muhammadabdullah660" width="400" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabdullah660&theme=nightowl" alt="muhammadabdullah660" height="200" /></p>
+
+<p><img align="right" src="https://blogs.sap.com/wp-content/uploads/2022/06/1325-code-fork-outline.gif" alt="hamzi-se" height="200" /></p>
+
+<!--- ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullah660\&rank_icon=percentile&show=reviews&include_all_commits=true)
 
 
 <a href="https://github.com/muhammadabdullah660/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadabdullah660&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a> --->
 
-<br/> 
+<br/><br/>
 
 [![@muhammad_abdullah00's Holopin board](https://holopin.me/muhammad_abdullah00)](https://holopin.io/@muhammad_abdullah00)
 
