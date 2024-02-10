@@ -7,7 +7,7 @@ Hi there! I'm Muhammad Abdullah, a passionate learner and aspiring tech professi
 **I wear many hats in the world of technology:**
 
 - **GDSC Lead:** Empowering fellow students and fueling innovation within the Google Developer Student Community.
-- **β MLSA:** As a passionate advocate for learning and technology, I actively participate in the MLSA program.
+- **Gold MLSA:** As a passionate advocate for learning and technology, I actively participate in the MLSA program.
 - **Web Engineer:** Building and crafting captivating web experiences through code.
 - **Co-Lead MLSA Lahore:** Spearheading initiatives and leading a team of MLSAs in Lahore.
 - **SDE Intern:** Leveraging hands-on experience to gain insights into software development best practices.
