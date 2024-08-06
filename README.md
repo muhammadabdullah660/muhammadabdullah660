@@ -15,7 +15,7 @@
 ## Let's Get Connected First!
 <div align="center">
    <a href="https://muhammadabdullah.me" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-%23333?style=for-the-badge&logo=web&logoColor=white" alt="muhammadabdullah" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23404d59.svg?style=for-the-badge&logo=view&logoColor=white" alt="muhammadabdullah" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadabdullah00/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="muhammadabdullah" style="margin-bottom: 5px;" />
@@ -40,20 +40,20 @@
 
  
 <div> 
-Hi there! I'm Muhammad Abdullah, a passionate learner and aspiring tech professional
 
-**I wear many hats in the world of technology:**
+### ⚡️ Here is a bit about me
 
-- **GDSC Lead:** Empowering fellow students and fueling innovation within the Google Developer Student Community.
-- **Gold MLSA:** As a passionate advocate for learning and technology, I actively participate in the MLSA program.
-- **Web Engineer:** Building and crafting captivating web experiences through code.
-- **Co-Lead MLSA Lahore:** Spearheading initiatives and leading a team of MLSAs in Lahore.
-- **SDE Intern:** Leveraging hands-on experience to gain insights into software development best practices.
-- **TA @UET:** Sharing my knowledge and helping the next generation of engineers master their craft.
-- **DevOps Fellow @Bytewise:** Immersing myself in the DevOps world, learning and contributing to streamlined CI/CD workflows.
-- **Certified MOS:** Proficient in Microsoft Office Suite tools, adding efficiency to my tasks.
-- **UET CS' 25:** Aspiring Computer Science student at the University of Engineering and Technology, Lahore.
-</div>
+- *JavaScript, HTML/CSS, TypeScript, Python, and C/C++ developer with experience in building **scalable web applications** and **responsive UI/UX designs***
+- *Proficient technologies: **React, Redux, Express.js, Node.js, Bootstrap, Firebase, Microsoft Azure, and more***
+- *Previously contributed to [**Woit Solutions**](https://woitsolutions.com) as a [**Software Development Intern**](https://woitsolutions.com), [**UET Lahore**](https://www.uet.edu.pk) as a [**Teaching Assistant**](https://www.uet.edu.pk), and designed web solutions on [**Fiverr**](https://www.fiverr.com) as a [**Front-End Web Developer**](https://www.fiverr.com)*
+- *[**Hackerrank**](https://www.hackerrank.com/profile/mafivs14) Certified Software Engineer, Frontend Developer (React), Software Engineer Intern, and in **C#, Python, SQL**; also a [**Microsoft Office Specialist**](https://www.credly.com/users/muhammad-abdullah.c4336651)*
+- *Actively involved in tech communities: **[Gold Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/ca9e1a70-d6f7-4376-9405-809e2894a0f2)** and [**Co-Lead**](https://www.linkedin.com/company/mlsalahore) for **Microsoft Learn Student Ambassadors** and related chapters, **[PR Lead](https://linktr.ee/techtehwaar)** for **Tech تہوار ’24**, Rising star and [**Top 1%**](https://topmate.io/muhammad_abdullah15) at **Topmate**, and previously **[Campus Lead](https://linktr.ee/gdscuet) for Google Developer Student Clubs**, **[Co-Director Web Development](https://hackclub.com)** at **Hack Club UET Lahore**, **[Director of Marketing](https://zindigi.pk)** at **Zindigi Prize**, and **[Co-Lead](https://www.linkedin.com/company/ultimate-tech-crew/)** for **Ultimate Tech Crew***
+- *Organized over **40 events and workshops** and mentored **50+ students** through **Microsoft Learn** and **Google Developer Student Clubs***
+- *Known for **effective workload management**, strong **leadership** and **organizational skills**, and a passion for **technology** and **community building***
+- *Special interests include **DevOps** and **Cloud Computing***
+
+
+
   
 
 
